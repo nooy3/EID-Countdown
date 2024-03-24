@@ -8,9 +8,9 @@ box-sizing: border-box;
 
 }
 .container{
+background-image: url(eid1.png);
 max-width: 100%;
 height: auto;
-background-image: url(eid1.png);
 background-position: center ;
 background-size: cover;
 padding:0 8%;
