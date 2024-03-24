@@ -9,10 +9,8 @@ box-sizing: border-box;
 }
 .container{
 background-image: url(eid1.png);
-max-width: 100%;
-height: auto;
-background-position: center ;
-background-size: cover;
+background-size: contain;
+background-repeat: no-repeat;
 padding:0 8%;
 position: relative;
 }
